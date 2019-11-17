@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## EGCTF2019-Qualifications Writeups
 
-You can use the [editor on GitHub](https://github.com/ahmeddaif1/EGCTF2019-writeups/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### List of all challenges
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmeddaif1/EGCTF2019-writeups/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+├── **Blockchain**
+│   ├── Friendly Coin (400)
+|   └── KittyChain (400)
+├── **Crypto**
+│   ├── DES amies (325)
+│   ├── Lucky RSA (400)
+|   └── Password Wallet (400)
+├── **Forensics**
+│   ├── Oh My Salary! (100)
+│   ├── Secret Agent (100)
+|   └── Data Leakage (130)
+├── **Misc**
+│   ├── QR c0d3 (100)
+│   ├── s3cret_m3$age (100)
+│   ├── SpaceX (130)
+│   ├── WW2 (253)
+│   ├── 39yp714n ▲▲▲ (400)
+│   ├── 84d $!9N41 (400)
+|   └── r4n50mw4r3 f0r dumm135 !! (400)
+├── **Reverse Engineering**
+│   ├── Snowball (100)
+│   ├── Process Enumeration (157)
+│   ├── Strings (292)
+│   ├── Cookie Monster (382)
+|   └── DGA (400)
+├── **Starter**
+│   ├── Decode me :) (10)
+│   ├── JS CryptoMiner (20)
+│   ├── Rotten Code (20)
+|   └── Warm up :) (50)
+└── **Web**
+    ├── Tamp3rat0r (50)
+    ├── Hold Up (117)
+    ├── Lazyadmin (222)
+    ├── Lookup (392)
+    ├── Secrets box (400)
+    └── Secure Document Portal (400)
