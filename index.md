@@ -3,6 +3,7 @@
 ### List of all challenges
 
 ├── **Blockchain**
+
 │   ├── Friendly Coin (400)
 |   └── KittyChain (400)
 ├── **Crypto**
