@@ -23,7 +23,7 @@
 - Data Leakage (130)
 
 ***Misc***
-- [QR c0d3](/) (100)
+- [QR c0d3](./challenges/) (100)
 - s3cret_m3$age (100)
 - SpaceX (130)
 - WW2 (253)
